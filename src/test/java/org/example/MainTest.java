@@ -8,7 +8,7 @@ public class MainTest {
 
         @Test
         void isEven_shouldReturnTrue_whenCalledWith2(){
-            //given Werte die wir kennen
+            //GIVEN Werte die wir kennen
             int number = 2;
             boolean expected = true;
 
